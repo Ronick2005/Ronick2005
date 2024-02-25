@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ronick2005
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Kotlin and Dart
-- 💞️ I’m looking to collaborate on projects based on Machine Learning
+- 👀 I’m interested in Machine Learning, Computer Vision, Digital Image Processing, Deep Learning, and keen on Brain Computer Interaction Systems
+- 🌱 I’m currently learning LLMs and Deep Learning Algorithms
+- 💞️ I’m looking to collaborate on projects based on my above-mentioned field of interests
 - 📫 How to reach me: Gmail - ronickaakshath0614@gmail.com, Instagram - @coder_ronickaakshath, Twitter - @Ronick_Aakshath
 
 <!---
